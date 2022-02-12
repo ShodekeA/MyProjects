@@ -1,0 +1,7 @@
+Travel Withdraw 30
+Entertainment Transfer 21 to food
+Entertainment Deposit 49
+clothing Deposit 78
+Food Deposit 23
+clothing Deposit 33
+Food Deposit 45
